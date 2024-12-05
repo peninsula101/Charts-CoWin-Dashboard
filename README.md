@@ -4,6 +4,9 @@ In this project, let's build a **CoWIN Dashboard** by applying the concepts we h
 
 ### Refer to the images below:
 
+**Success View**
+![my charts](https://github.com/user-attachments/assets/63da82cc-82df-4d68-8204-d8e8b7407fcc)
+
 
 **Failure View**
 
