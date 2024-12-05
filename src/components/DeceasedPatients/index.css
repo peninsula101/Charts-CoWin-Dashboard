@@ -1,0 +1,17 @@
+.vaccination-deceased-container {
+  display: flex;
+  flex-direction: column;
+  background-image: linear-gradient(to top left, #ffc9c9, #8efc9d);
+  background-color: #1c1c2b;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.vaccination-deceased-heading {
+  color: #006aff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.5;
+}

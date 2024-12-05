@@ -1,0 +1,16 @@
+.vaccination-other-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #0000ff;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.vaccination-other-heading {
+  color: #3f8fff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.5;
+}

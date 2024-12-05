@@ -1,0 +1,16 @@
+.vaccination-doctors-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #092947;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.vaccination-doctors-heading {
+  color: #006aff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.5;
+}
